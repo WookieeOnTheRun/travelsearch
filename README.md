@@ -1,5 +1,5 @@
 # travelsearch
-Concept for allowing Triptopia agents to easily track customer travel queries for tracking and re-use
+Concept for allowing travel agents to easily track customer travel queries for tracking and re-use
 
 The "DDL.sql" file assumes that the developer is using an MSSQL database as a backend.
 
